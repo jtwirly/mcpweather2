@@ -81,3 +81,13 @@ The server uses the National Weather Service API:
 ## License
 
 This project follows the original tutorial from [Model Context Protocol](https://modelcontextprotocol.io/quickstart/server)
+
+## Screenshots
+
+<img width="992" alt="Screen Shot 2025-04-06 at 10 17 10 PM" src="https://github.com/user-attachments/assets/0569b0e3-ec96-4175-a006-951c58d2b5c4" />
+
+<img width="990" alt="Screen Shot 2025-04-06 at 10 17 26 PM" src="https://github.com/user-attachments/assets/49ae7174-e44b-4646-9c34-265130d1cc63" />
+
+<img width="1002" alt="Screen Shot 2025-04-06 at 10 17 48 PM" src="https://github.com/user-attachments/assets/10c48fe8-e5c4-444c-8203-2874e13ccdad" />
+
+
