@@ -80,7 +80,7 @@ The server uses the National Weather Service API:
 
 ## About the MIT MCP Hackathon
 
-This project was created during the MIT MCP Hackathon (April 2025), which aimed to introduce developers to the Model Context Protocol and help projects/startups launch their own MCP servers. The hackathon was part of the NANDA (Networked Agents and Decentralized AI) hub initiative at MIT.
+This project was created as part of a tutorial during the MIT MCP Hackathon (April 2025), which aimed to introduce developers to the Model Context Protocol and help projects/startups launch their own MCP servers. The hackathon was part of the NANDA (Networked Agents and Decentralized AI) hub initiative at MIT.
 
 ## License
 
